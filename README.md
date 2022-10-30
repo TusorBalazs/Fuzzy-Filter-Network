@@ -1,7 +1,7 @@
 # Fuzzy-Filter-Network
 A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification.
 
-Requires OpenCV.
+This implementation is based around image processint (color filtering), so it requires OpenCV.
 
 Related articles:
 
