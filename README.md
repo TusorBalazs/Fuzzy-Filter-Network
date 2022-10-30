@@ -4,6 +4,7 @@ A simple to use classifier, using a modified Radial Basis Function Network archi
 Requires OpenCV.
 
 Related articles:
+
 Tusor, B., Várkonyi-Kóczy, A.R.: “A Hybrid Fuzzy-RBFN Filter for Data Classification”, Advanced Materials Research, Vol 1117 (2015), pp. 261-264, 2015.
 
 Tusor, B., Várkonyi-Kóczy, A.R.: “A Rule-based Filter Network for Multiclass Data Classification”, in Proc. of the 2015 IEEE International Instrumentation and Measurement Technology Conf., I2MTC 2015, Pisa, Italy, May 11-14, pp. 1102-1107, 2015.
